@@ -1,5 +1,5 @@
 @import "../base";
-@import "../utility/typography";
+// @import "../utility/typography";
 @import "./components/accordion";
 @import "./components/alert";
 @import "./components/avatar";
